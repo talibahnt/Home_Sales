@@ -4,8 +4,6 @@ can use Home_Sales/Home_Sales.ipynb/Home_Sales_google_colab.ipynb for code in Go
 
 can use Home_Sales.ipynb for code in Google Colab
 
-Here is a clean, professional, and scannable `README.md` tailored for your GitHub repository. It clearly presents the purpose of the project, the workflow, and instructions for running the code in Google Colab.
-
 ---
 
 # Home Sales Data Analysis
